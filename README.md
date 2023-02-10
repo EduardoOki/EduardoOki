@@ -1,7 +1,7 @@
 <h2 align="center">Bom dia, tarde ou noite! 😊</h2>
 
 <h2>- Sobre mim:</h2>
-<p> Me chamo <b> Eduardo oki </b>, tenho 22 anos e é um prazer ter você aqui.</p>
+<p> Me chamo <b>Eduardo oki</b>, tenho 22 anos e é um prazer ter você aqui.</p>
 
 <p>Estou cursando o primeiro ano de ciência da computação na faculdade Unimar.</p>
 
